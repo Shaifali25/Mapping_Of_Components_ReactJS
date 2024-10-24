@@ -1,2 +1,2 @@
-# Mapping_Of_Components_Prac
+# Mapping_Of_Components_ReactJS
 Created with CodeSandbox
